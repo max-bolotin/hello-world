@@ -1,6 +1,7 @@
 public class App {
     public static void main(String[] args) {
-        int a= 10, b = 7;
+        int a= 10;
+        int b = 7;
         System.out.println(sum(a, b));
         System.out.println(div(a, b));
     }
